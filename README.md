@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-game
-Testing
+A simple version of Tic tac toe game using Numpy module in python 
